@@ -1,2 +1,32 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
+谢杭洁 - 个人简历
+
+概况：
+
+男
+24岁
+专科， 2015.6 毕业于杭州机电职业技术学院
+
+意向职位
+
+web前端工程师
+专业技能
+
+Web 前端:
+
+熟悉 HTML，JavaScript，CSS。
+对 HTML5 和 CSS3 有一定接触。
+熟悉常用和出名的一些库或者框架，如：jQuery,Bootstrap。
+对 js 异步编程有些了解。
+会写jQuery 。
+
+
+联系方式
+
+邮箱：326560444@qq.com
+手机：13588419364
+爱好与自评
+
+爱好看书，听歌
+宅，话少，有一定学习能力。
+乐于学习新技术和新事物。
+感谢阅读。
